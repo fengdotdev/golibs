@@ -1,11 +1,11 @@
 package traits
 
 type JSONSerializable interface {
-	ToJson() string
+	ToJSON() (string, error)
 }
 
 type JSONDeserializable interface {
-	FromJson(string)
+	FromJSON(string) error
 }
 
 type JSONTrait interface {
