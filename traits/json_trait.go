@@ -5,7 +5,7 @@ type JSONSerializable interface {
 }
 
 type JSONDeserializable interface {
-	FromJSON(string) error
+	FromJSON(s string) error
 }
 
 type JSONTrait interface {
