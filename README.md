@@ -27,3 +27,13 @@ A set of utilities to simplify testing in Go.
 ```bash
     go get github.com/fengdotdev/golibs-testing
 ```
+
+## Static Pages
+
+Library for create static webpages
+
+
+### QuickStart
+```bash
+    go get github.com/fengdotdev/golibs-staticpages
+```
