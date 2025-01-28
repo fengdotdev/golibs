@@ -41,3 +41,15 @@ Library for create static webpages
 ```bash
     go get github.com/fengdotdev/golibs-staticpages
 ```
+
+
+## Data Container
+
+a type for holding data 
+
+### QuickStart
+```bash
+ go get github.com/fengdotdev/golibs-datacontainer
+```
+
+
