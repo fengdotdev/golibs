@@ -16,14 +16,14 @@ Library for handling reusable traits (interfaces) in Go.
   go get github.com/fengdotdev/golibs-traits
   ```
 
-### Helperfuncs [![Go Reference](https://pkg.go.dev/badge/github.com/fengdotdev/golibs-helperfuncs.svg)](https://pkg.go.dev/github.com/fengdotdev/golibs-helperfuncs)
+### Funcs [![Go Reference](https://pkg.go.dev/badge/github.com/fengdotdev/golibs-funcs.svg)](https://pkg.go.dev/github.com/fengdotdev/golibs-funcs)
 
 A set of utility functions simplifying standard library operations.
 
-- **Repository**: [github.com/fengdotdev/golibs-helperfuncs](https://github.com/fengdotdev/golibs-helperfuncs)
+- **Repository**: [github.com/fengdotdev/golibs-funcs](https://github.com/fengdotdev/golibs-funcs)
 - **Quick Start**:
   ```bash
-  go get github.com/fengdotdev/golibs-helperfuncs
+  go get github.com/fengdotdev/golibs-funcs
   ```
 
 ### Testing [![Go Reference](https://pkg.go.dev/badge/github.com/fengdotdev/golibs-testing.svg)](https://pkg.go.dev/github.com/fengdotdev/golibs-testing)
